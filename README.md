@@ -18,3 +18,5 @@ To answer key business questions, I will follow the six steps of the data analys
 + Share
 + Act
 
+To solve the following business task...
+Cyclistic has concluded that annual members are much more profitable than casual riders. So, we want to design a marketing strategies and a campaign that helps us converting casual riders into annual members.
